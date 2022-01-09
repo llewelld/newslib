@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Files generated during the build
+Makefile
+RPMS
+documentation.list
+src/*.so.*
